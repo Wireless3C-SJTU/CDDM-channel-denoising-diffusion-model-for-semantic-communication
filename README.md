@@ -38,14 +38,14 @@ This is the official deployment of the paper "CDDM : Channel Denoising Diffusion
 
 ```
 @INPROCEEDINGS{10436728,
-  author={Wu, Tong and Chen, Zhiyong and He, Dazhi and Qian, Liang and Xu, Yin and Tao,     Meixia and Zhang, Wenjun},
+  author={Wu, Tong and Chen, Zhiyong and He, Dazhi and Qian, Liang and Xu, Yin and Tao, Meixia and Zhang, Wenjun},
   booktitle={GLOBECOM 2023 - 2023 IEEE Global Communications Conference}, 
   title={CDDM: Channel Denoising Diffusion Models for Wireless Communications}, 
   year={2023},
   volume={},
   number={},
   pages={7429-7434},
-  keywords={Wireless communication;Fading channels;Adaptation models;Noise           	  	reduction;Semantics;Transform coding;Mean square error methods},
+  keywords={Wireless communication;Fading channels;Adaptation models;Noise reduction;Semantics;Transform coding;Mean square error methods},
   doi={10.1109/GLOBECOM54140.2023.10436728}}
 
 ```
