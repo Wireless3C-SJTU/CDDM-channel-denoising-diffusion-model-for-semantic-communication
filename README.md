@@ -17,7 +17,7 @@ Paper : https://ieeexplore.ieee.org/document/10480348
 This is the official deployment of the paper "CDDM : Channel Denoising Diffusion Models for Semantic Communications"
 
 <p align="center">
-  <img src="CDDM_system.png" alt="System Model" width="80%">
+  <img src="CDDM_system.png" alt="System Model" width="95%">
 </p>
 
 # Getting start
