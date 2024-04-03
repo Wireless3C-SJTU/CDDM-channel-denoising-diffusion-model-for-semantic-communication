@@ -2,12 +2,12 @@
 <h1>CDDM </h1>
 <h3>CDDM : Channel Denoising Diffusion Models for Semantic Communications</h3>
 
-<div align="center">
+
 Tong Wu, Zhiyong Chen, Senior Member, IEEE, Dazhi He, Member, IEEE, Liang Qian, Yin Xu, Member, IEEE, Meixia Tao, Fellow, IEEE, and Wenjun Zhang, Fellow
-<div align="center">
+
 Cooperative Medianet Innovation Center (CMIC),Shanghai Jiao Tong University, Shanghai Key Laboratory of Digital Media Processing and Transmission
 
-<div align="center">
+
 Paper : https://ieeexplore.ieee.org/document/10480348
 
 </div>
