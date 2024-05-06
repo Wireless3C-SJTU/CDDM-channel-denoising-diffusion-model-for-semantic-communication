@@ -28,7 +28,7 @@ This is the official deployment of the paper "CDDM : Channel Denoising Diffusion
 
 ​    We provide some checkpoints of our model and you can download them [here]().
 
-​	After download the checkpoints, you can directly run the [main.py]() file to evaluate the performance of the JSCC system and the joint JSCC and CDDM system at an SNR of 10 dB.
+​	After download the checkpoints, you can directly run the [main.py]() file to evaluate the performance of the JSCC system and the joint JSCC and CDDM system at an SNR of 10 dB under the AWGN channel.
 
 ​	The code about training has been annotated, but the related code has been contained in the project, you can run the function directly.
 
