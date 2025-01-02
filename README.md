@@ -26,7 +26,7 @@ This is the official deployment of the paper "CDDM : Channel Denoising Diffusion
 
 ​	For the first step, you should change the path in the [main.py]() file according to your environment.
 
-​    We provide some checkpoints of our model and you can download them [here](https://drive.google.com/drive/folders/103Shcs7Gh5LKoz2smJXVt85ok1m_e2mL?usp=sharing).
+​    We provide some checkpoints of our model and you can download them [here](https://drive.google.com/drive/folders/1-oEe1F_-OqkWoeYOtyOGJLiGJskLbcyX?usp=sharing).
 
 ​	After download the checkpoints, you can directly run the [main.py]() file to evaluate the performance of the JSCC system and the joint JSCC and CDDM system at an SNR of 10 dB under the AWGN channel.
 
